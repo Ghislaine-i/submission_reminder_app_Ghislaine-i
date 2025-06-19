@@ -1,0 +1,17 @@
+
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+# Add 5 more records:
+john,Shell Basics, not submitted
+lucy,Shell Permissions,pending
+ben,Shell Navigation, not submitted
+nancy,Git,not submitted
+elijah,Shell Permissions,pending
+grace,Git,pending
+alan,Shell Basics,pending
+adda,Shell Permissions, not submitted
+Mary,Git, not submitted
+Aliya,Shell Basics, not submitted
